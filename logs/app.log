@@ -1,0 +1,60 @@
+2026-02-23 16:29:24,958 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.160.83.133:5000
+2026-02-23 16:29:24,959 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-23 16:29:25,351 - INFO - 10.160.83.13 - - [23/Feb/2026 16:29:25] "[33mGET / HTTP/1.1[0m" 404 -
+2026-02-23 16:29:35,367 - INFO - 10.160.83.13 - - [23/Feb/2026 16:29:35] "[33mGET / HTTP/1.1[0m" 404 -
+2026-02-23 16:29:49,324 - INFO - 10.160.83.13 - - [23/Feb/2026 16:29:49] "[33mGET / HTTP/1.1[0m" 404 -
+2026-02-23 16:31:41,770 - INFO - 10.160.83.13 - - [23/Feb/2026 16:31:41] "[33mGET / HTTP/1.1[0m" 404 -
+2026-02-23 16:33:12,437 - INFO - 10.160.83.13 - - [23/Feb/2026 16:33:12] "[33mGET / HTTP/1.1[0m" 404 -
+2026-02-23 16:34:06,852 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.160.83.133:5000
+2026-02-23 16:34:06,852 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-23 16:34:06,857 - INFO -  * Restarting with stat
+2026-02-23 16:34:07,519 - WARNING -  * Debugger is active!
+2026-02-23 16:34:07,521 - INFO -  * Debugger PIN: 134-213-721
+2026-02-23 16:34:10,201 - INFO - 10.160.83.13 - - [23/Feb/2026 16:34:10] "[33mGET / HTTP/1.1[0m" 404 -
+2026-02-23 16:34:11,196 - INFO - 10.160.83.13 - - [23/Feb/2026 16:34:11] "[33mGET / HTTP/1.1[0m" 404 -
+2026-02-23 16:34:12,017 - INFO - 10.160.83.13 - - [23/Feb/2026 16:34:12] "[33mGET / HTTP/1.1[0m" 404 -
+2026-02-23 16:34:13,864 - INFO - 10.160.83.13 - - [23/Feb/2026 16:34:13] "[33mGET / HTTP/1.1[0m" 404 -
+2026-02-23 16:34:47,446 - INFO - 10.160.83.13 - - [23/Feb/2026 16:34:47] "[33mGET / HTTP/1.1[0m" 404 -
+2026-02-23 16:36:18,430 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.160.83.133:5000
+2026-02-23 16:36:18,431 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-23 16:36:18,434 - INFO -  * Restarting with stat
+2026-02-23 16:36:19,071 - WARNING -  * Debugger is active!
+2026-02-23 16:36:19,072 - INFO -  * Debugger PIN: 134-213-721
+2026-02-23 16:36:30,497 - INFO - 10.160.83.13 - - [23/Feb/2026 16:36:30] "[33mGET / HTTP/1.1[0m" 404 -
+2026-02-23 16:37:46,692 - INFO - 127.0.0.1 - - [23/Feb/2026 16:37:46] "GET /health HTTP/1.1" 200 -
+2026-02-23 16:41:24,798 - ERROR - 上传请求中无文件
+2026-02-23 16:41:24,799 - INFO - 127.0.0.1 - - [23/Feb/2026 16:41:24] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2026-02-23 16:42:36,275 - INFO - 图片上传成功: /home/umeko/db-web/uploads/images/20260223164236_2.png
+2026-02-23 16:42:36,276 - INFO - 127.0.0.1 - - [23/Feb/2026 16:42:36] "POST /upload HTTP/1.1" 200 -
+2026-02-23 16:49:16,222 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.160.83.133:5000
+2026-02-23 16:49:16,223 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-23 16:49:16,228 - INFO -  * Restarting with stat
+2026-02-23 16:49:16,886 - WARNING -  * Debugger is active!
+2026-02-23 16:49:16,887 - INFO -  * Debugger PIN: 134-213-721
+2026-02-23 16:49:40,933 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.160.83.133:5000
+2026-02-23 16:49:40,934 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-23 16:49:40,937 - INFO -  * Restarting with stat
+2026-02-23 16:49:41,609 - WARNING -  * Debugger is active!
+2026-02-23 16:49:41,610 - INFO -  * Debugger PIN: 134-213-721
+2026-02-23 19:00:04,713 - INFO - 图片上传成功: /home/umeko/db-web/uploads/images/20260223190004_712237_1.jpg
+2026-02-23 19:00:04,781 - INFO - 脚本 process_image.py 执行结果: {'status': 'success', 'message': '脚本执行成功', 'output': '图片路径: /home/umeko/db-web/uploads/images/20260223190004_712237_1.jpg\n图片大小: 9.49 KB\n图片处理完成（示例逻辑）\n'}
+2026-02-23 19:00:04,782 - INFO - 图片上传成功: /home/umeko/db-web/uploads/images/20260223190004_782027_2.jpg
+2026-02-23 19:00:04,835 - INFO - 脚本 process_image.py 执行结果: {'status': 'success', 'message': '脚本执行成功', 'output': '图片路径: /home/umeko/db-web/uploads/images/20260223190004_782027_2.jpg\n图片大小: 4.56 KB\n图片处理完成（示例逻辑）\n'}
+2026-02-23 19:00:04,836 - INFO - 图片上传成功: /home/umeko/db-web/uploads/images/20260223190004_835609_3.jpg
+2026-02-23 19:00:04,902 - INFO - 脚本 process_image.py 执行结果: {'status': 'success', 'message': '脚本执行成功', 'output': '图片路径: /home/umeko/db-web/uploads/images/20260223190004_835609_3.jpg\n图片大小: 7.08 KB\n图片处理完成（示例逻辑）\n'}
+2026-02-23 19:00:04,905 - INFO - 10.160.83.13 - - [23/Feb/2026 19:00:04] "POST /upload HTTP/1.1" 200 -
